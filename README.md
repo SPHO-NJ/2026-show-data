@@ -48,9 +48,9 @@ One object per adoptable horse:
   "height": "15.2 hh",
   "price": "$2,500",
   "photo": "images/example-horse.jpg",
-  "infoUrl": "https://www.purplehazestandardbreds.org/"
+  "infoUrl": "https://example.com/this-horse"
 }
 ```
 
 - `photo` — path to a file in `images/`, or a full image URL.
-- `infoUrl` — where "More info" links to (a Purple Haze page, a Facebook post, etc).
+- `infoUrl` — where "More info" links to (the seller/farm's own page, a Facebook post, etc).
