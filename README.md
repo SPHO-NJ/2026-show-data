@@ -27,14 +27,13 @@ One object per vendor:
 ```json
 {
   "name": "Example Tack & Feed",
-  "logo": "images/example-tack-and-feed.png",
-  "description": "One or two sentences about the vendor / booth.",
-  "website": "https://example.com"
+  "link": "https://example.com",
+  "photo": ""
 }
 ```
 
-- `logo` — path to a file in `images/`, or a full image URL. Optional — leave `""` if there's no logo yet.
-- `website` — optional. Leave `""` to hide the "Visit website" link.
+- `link` — their website / Facebook page / Instagram, etc. The site automatically pulls a preview image from this link (same way Facebook/Slack unfurl a link). Optional — leave `""` if they don't have anything to link to.
+- `photo` — path to a file in `images/`, or a full image URL. Optional. Use this when the automatic preview doesn't pull a good image, or when there's no `link` to preview at all.
 
 ## horses.json
 
