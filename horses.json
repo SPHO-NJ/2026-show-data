@@ -1,11 +1,11 @@
 [
   {
-    "name": "Example Horse",
-    "age": "8",
+    "name": "[TEST] Determine This — sample entry, not a real listing",
+    "age": "21",
     "gender": "Gelding",
     "height": "15.2 hh",
-    "price": "$2,500",
-    "photo": "images/example-horse.jpg",
-    "infoUrl": "https://www.purplehazestandardbreds.org/"
+    "price": "$1,000,000 (TEST VALUE)",
+    "photo": "images/determine-this-TEST.jpeg",
+    "infoUrl": "https://www.luckycricketfarmnj.com/meet-the-horses"
   }
 ]
