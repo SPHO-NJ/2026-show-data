@@ -1,7 +1,22 @@
 [
   {
-    "name": "[TEST] Lucky Cricket Farm",
-    "link": "https://www.luckycricketfarmnj.com/meet-the-horses",
+    "name": "Triple Crown Feed",
+    "link": "https://www.triplecrownfeed.com/",
+    "photo": ""
+  },
+  {
+    "name": "Equestrian's Corner",
+    "link": "https://equestrianscorner.com/",
+    "photo": ""
+  },
+  {
+    "name": "Fine Designs",
+    "link": "https://finedesigns.com/",
+    "photo": ""
+  },
+  {
+    "name": "Kelly Herd Jewelry",
+    "link": "https://kellyherdjewelry.com/",
     "photo": ""
   }
 ]
