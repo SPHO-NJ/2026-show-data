@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "name": "Chapamando",
+    "age": "2022",
+    "gender": "Gelding",
+    "height": "15.2 hh",
+    "price": "$3,000",
+    "photo": "images/chapamando.jpg",
+    "infoUrl": "https://phsap.org/horses/",
+    "videoUrl": "https://www.facebook.com/reel/1060856679991248"
+  },
+  {
+    "name": "All That Class",
+    "age": "2022",
+    "gender": "Gelding",
+    "height": "16 hh",
+    "price": "$2,000",
+    "photo": "images/all-that-class.jpg",
+    "infoUrl": "https://phsap.org/horses/",
+    "videoUrl": "https://www.facebook.com/share/v/17wTCMaJzi/"
+  },
+  {
+    "name": "Nikola J",
+    "age": "2022",
+    "gender": "Gelding",
+    "height": "15.2 hh",
+    "price": "$3,000",
+    "photo": "images/nikola-j.jpg",
+    "infoUrl": "https://phsap.org/horses/",
+    "videoUrl": "https://www.facebook.com/share/v/19enb1v7b6/"
+  },
+  {
+    "name": "Gretzky The Great",
+    "age": "2020",
+    "gender": "Gelding",
+    "height": "16.1 hh",
+    "price": "$2,500",
+    "photo": "images/gretzky-the-great.jpg",
+    "infoUrl": "https://phsap.org/horses/",
+    "videoUrl": "https://www.facebook.com/share/v/1C8defsoyE/"
+  }
+]

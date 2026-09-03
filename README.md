@@ -47,9 +47,11 @@ One object per adoptable horse:
   "height": "15.2 hh",
   "price": "$2,500",
   "photo": "images/example-horse.jpg",
-  "infoUrl": "https://example.com/this-horse"
+  "infoUrl": "https://example.com/this-horse",
+  "videoUrl": ""
 }
 ```
 
 - `photo` — path to a file in `images/`, or a full image URL.
-- `infoUrl` — where "More info" links to (the seller/farm's own page, a Facebook post, etc).
+- `infoUrl` — where "More info" links to (the seller/farm's own page, a Facebook post, etc). Optional — leave `""` to hide the link.
+- `videoUrl` — where "Watch video" links to (a Facebook video, YouTube, etc). Optional — leave `""` to hide the link.
