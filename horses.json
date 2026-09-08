@@ -38,5 +38,15 @@
     "photo": "images/gretzky-the-great.jpg",
     "infoUrl": "https://phsap.org/horses/",
     "videoUrl": "https://www.facebook.com/share/v/1C8defsoyE/"
+  },
+  {
+    "name": "Lettucerockthem A",
+    "age": "2010",
+    "gender": "Gelding",
+    "height": "16.1 hh",
+    "price": "$3,000",
+    "photo": "images/lettucerockthem-a.jpg",
+    "infoUrl": "https://www.safeharborsanctuary.org/adoptable-horses",
+    "videoUrl": ""
   }
 ]
