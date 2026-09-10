@@ -48,5 +48,15 @@
     "photo": "images/lettucerockthem-a.jpg",
     "infoUrl": "https://www.safeharborsanctuary.org/adoptable-horses",
     "videoUrl": "https://www.facebook.com/share/v/1Jv1eqFtpC/"
+  },
+  {
+    "name": "HeyBatterBatter",
+    "age": "2021",
+    "gender": "Gelding",
+    "height": "16.2 hh",
+    "price": "$3,500",
+    "photo": "images/heybatterbatter.jpg",
+    "infoUrl": "",
+    "videoUrl": "https://www.youtube.com/watch?v=6Zu-Sg0rzfE"
   }
 ]
