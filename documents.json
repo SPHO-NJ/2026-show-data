@@ -1,4 +1,10 @@
 [
   { "title": "Dressage Ride Times", "description": "Final ride times for every dressage test.", "file": "documents/dressage-ride-times.pdf" },
-  { "title": "Stall Chart", "description": "Barn and stall assignments (Barns A, B, and C).", "file": "documents/stall-chart.pdf" }
+  { "title": "Stall Chart", "description": "Barn and stall assignments (Barns A, B, and C).", "file": "documents/stall-chart.pdf" },
+  { "title": "Dressage Tests", "description": "Test sheets for every dressage and western dressage class.", "file": "documents/dressage-tests.pdf" },
+  { "title": "Driving Patterns", "description": "Patterns for the driving reinsmanship classes.", "file": "documents/driving-patterns.pdf" },
+  { "title": "Games Patterns", "description": "Patterns for barrel racing, pole bending, and keyhole.", "file": "documents/games-patterns.pdf" },
+  { "title": "Jumping Courses", "description": "Courses for the hunter over fences and jumper classes.", "file": "documents/jumping-courses.pdf" },
+  { "title": "Trail Course", "description": "The trail class course.", "file": "documents/trail-course.pdf" },
+  { "title": "Western Patterns", "description": "Patterns for showmanship, horsemanship, and ranch riding.", "file": "documents/western-patterns.pdf" }
 ]
